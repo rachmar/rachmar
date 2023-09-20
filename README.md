@@ -85,5 +85,6 @@
 <hr/>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rachmar&style=plastic&label=Views"><img>
   <img src="https://badges.pufler.dev/visits/rachmar/rachmar?color=black&logo=github" />
 </p>
